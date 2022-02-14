@@ -72,6 +72,6 @@ Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
 ### ENTORNO VIRTUAL - CREACIÓN
 
-![](../images/modulo2.png)
+![](https://github.com/JessicaZempoalteca/KatasLaunchX/blob/68d446074dd5c406077ae0c0be22887e14c17918/image%20modulo%202/modulo2.png)
 
 Solo coloqué una captura porque el entorno virtual ya había sido creado.
